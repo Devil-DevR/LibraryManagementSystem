@@ -1,0 +1,35 @@
+# === NODE MODULES ===
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# === ENVIRONMENT VARIABLES ===
+.env
+.env.*    # Covers .env.local, .env.development, etc.
+frontend/.env
+backend/.env
+
+# === BUILD FILES ===
+frontend/build/
+backend/dist/
+
+# === LOG FILES ===
+*.log
+logs/
+
+# === OS FILES ===
+.DS_Store
+Thumbs.db
+
+# === IDE / CONFIG FILES ===
+.vscode/
+.idea/
+
+# === TEST / COVERAGE ===
+coverage/
+.cache/
+jest.cache/
+
+# === MISC ===
+*.bak
+*.swp

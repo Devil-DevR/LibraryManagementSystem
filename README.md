@@ -1,12 +1,3 @@
-Sure! Here's a clean and simple `README.md` documentation for a **Book Management System** built with the **MERN stack** (MongoDB, Express, React, Node.js) that includes:
-
-- User authentication (login/register)
-- A protected dashboard
-- Book CRUD operations
-- MongoDB database integration
-
----
-
 ## 📚 Book Management System (MERN Stack)
 
 A full-stack Book Management System built with the MERN stack. Users can register, login, and manage a personal dashboard to **add, view, edit, or delete books**. Authentication is handled with **JWT**, and the UI is built in **React**.
@@ -53,7 +44,7 @@ book-management-system/
 │
 ├── .gitignore
 ├── README.md
-└── package.json      # For concurrently running frontend & backend
+
 ```
 
 ---
@@ -70,7 +61,7 @@ book-management-system/
 ### 🚀 Clone and Run
 
 ```bash
-git clone https://github.com/your-username/book-management-system.git
+git clone https://github.com/Devil-DevR/book-management-system.git
 cd book-management-system
 ```
 
@@ -149,12 +140,3 @@ npm run dev
 - 📄 Pagination and Search
 - 🧾 Export to PDF or Excel
 
----
-
-## 🧑‍💻 Author
-
-**Your Name** – [your-portfolio.com](https://your-portfolio.com)
-
----
-
-Let me know if you'd like me to generate this as a downloadable file or push it to a GitHub repo for you.
